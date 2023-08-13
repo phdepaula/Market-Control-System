@@ -9,7 +9,6 @@ This project refers to a market control system that allows the user to perform c
 * Close Order
 * Exit System
 
----
 ## **How to run the code**
 
 Open the terminal and run the following command:
